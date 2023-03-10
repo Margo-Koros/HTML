@@ -1,0 +1,29 @@
+html {
+    background-color: rgb(255, 255, 255);
+}
+p {
+    color:rgb(255, 0, 115);
+}
+h1 {
+    margin: 0;
+    padding: 20px 350px 20px 450px;
+    text-shadow: 3px 3px 1px rgb(255, 255, 255);
+    color:rgb(42, 5, 101)
+}
+h2 {
+    color: rgb(47, 116, 22);
+}
+a {
+     color: rgb(32, 117, 23);
+}
+img {
+    display: block;
+    margin: 0;
+    padding: 20px 200px 20px 200px;
+}
+body {
+    width: 1200px;
+    background-color: rgb(216, 216, 216);
+    border: 2px solid rgb(15, 14, 14);
+    padding: 20px 20px 20px 20px;
+}
