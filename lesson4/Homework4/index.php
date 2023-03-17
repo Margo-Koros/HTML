@@ -1,3 +1,10 @@
+<?php
+        $job = [
+            'job_name' => ['Apple', 'Sony', 'Samsung'],
+            'job_data' => ['2022-настоящее время', '2007-2013', '2015-2022'],
+            'job_desc' => ['Работа над Iphone 15', 'Разработка x-box', 'работа над samsung watch']
+        ]
+    ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,14 +16,6 @@
 <body>
     <p> Задача №1: сформировать массив с данными для блока «Опыт работы».
         Вывести данные массива в HTML-шаблоне. </p>
-    <?php
-        $job = [
-            'job_name' => ['Apple', 'Sony', 'Samsung'],
-            'job_data' => ['2022-настоящее время', '2007-2013', '2015-2022'],
-            'job_desc' => ['Работа над Iphone 15', 'Разработка x-box', 'работа над samsung watch']
-        ]
-    ?>
-
     <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i
                 class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Опыт работы</h2>
