@@ -1,0 +1,4 @@
+Chrome -------------------> nginx ---------> php ---------> mysql
+        site.ru             index.php
+        site.ru/catalog     catalog.php
+        site.ru/profile
